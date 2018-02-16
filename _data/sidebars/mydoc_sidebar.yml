@@ -61,7 +61,7 @@ entries:
     output: web
     folderitems:
     - title: 将组件添加到文档
-      url: /data_components.html
+      url: /add_component.html
       output: web, pdf    
     - title: Tag archives overview
       url: /mydoc_tag_archives_overview.html
