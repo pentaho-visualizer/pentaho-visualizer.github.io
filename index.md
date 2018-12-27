@@ -16,4 +16,23 @@ permalink: index.html
 
 - 简单易用，让每个人都能使用数据、驾驭数据。
 
+
+
+## Datafor在Pentaho架构中的位置
+
 ![架构](https://datafor123.github.io/images/jiagou.png)
+
+
+
+## Datafor解决哪些问题
+
+- 数据可视化展示
+- 数据探索式分析
+- 敏捷BI工具
+- 嵌入式数据展示及分析
+
+
+
+## 特点
+
+![tedian](https://datafor123.github.io/images/tedian.png)
