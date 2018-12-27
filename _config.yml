@@ -3,10 +3,10 @@ repository: datafor123/datafor123.github.io
 output: web
 # this property is useful for conditional filtering of content that is separate from the PDF.
 
-topnav_title: Jekyll Documentation Theme
+topnav_title: DATAFOR(for Pentaho) Document
 # this appears on the top navigation bar next to the home button
 
-site_title: Jekyll theme for documentation
+site_title: DATAFOR
 # this appears in the html browser tab for the site title (seen mostly by search engines, not users)
 
 company_name: DATAFOR
@@ -35,9 +35,9 @@ exclude:
   - .gitignore
 # these are the files and directories that jekyll will exclude from the build
 
-feedback_subject_line: Jekyll documentation theme
+feedback_subject_line: DATAFOR
 
-feedback_email: tomjoht@gmail.com
+feedback_email: support@datafor.com.cn
 # used as a contact email for the Feedback link in the top navigation bar
 
 # feedback_disable: true
@@ -107,7 +107,7 @@ sidebars:
 - product2_sidebar
 - other
 
-description: "Intended as a documentation theme based on Jekyll for technical writers documenting software and other technical products, this theme has all the elements you would need to handle multiple products with both multi-level sidebar navigation, tags, and other documentation features."
+description: "DATAFOR(for Pentaho) Document."
 # the description is used in the feed.xml file
 
 # needed for sitemap.xml file only
