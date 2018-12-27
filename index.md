@@ -8,4 +8,4 @@
 
 简单易用，让每个人都能使用数据、驾驭数据。
 
-![架构](assets/images/架构-1545905088968.png)
+![架构](https://datafor123.github.io/images/jiagou.png)
