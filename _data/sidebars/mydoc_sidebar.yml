@@ -2,7 +2,7 @@
 
 entries:
 - title: sidebar
-  product: Datafor plugin for Pentaho
+  product: Datafor插件
   version: 1.0
   folders:
 
@@ -19,7 +19,7 @@ entries:
       output: pdf
       type: frontmatter
 
-  - title: Overview
+  - title: 概览
     output: web, pdf
     folderitems:
 
