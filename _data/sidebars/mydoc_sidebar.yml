@@ -82,7 +82,7 @@ entries:
       output: web, pdf
 
     - title: 筛选
-      url: /mydoc_posts.html
+      url: /filter.html
       output: web, pdf
 
     - title: 联动
