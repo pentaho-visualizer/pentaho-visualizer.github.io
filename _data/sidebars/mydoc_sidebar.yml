@@ -60,7 +60,9 @@ entries:
   - title: 可视化
     output: web
     folderitems:
-    
+    - title: Tag archives overview
+      url: /mydoc_tag_archives_overview.html
+      output: web
       subfolders:
       - title: 组件类型
         output: web
@@ -68,11 +70,11 @@ entries:
 
         - title: 数据组件
           url: /data_components.html
-          output: web, pdf
+          output: web
 
         - title: 静态组件
-          url: /static_components.html
-          output: web, pdf      
+          url: /data_components.html
+          output: web 
 
     - title: 样式设置
       url: /mydoc_install_jekyll_on_mac.html
