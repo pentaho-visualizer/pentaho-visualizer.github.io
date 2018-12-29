@@ -58,12 +58,12 @@ entries:
       output: web, pdf      
 
   - title: 可视化
-    output: web, pdf
+    output: web
     folderitems:
     
       subfolders:
       - title: 组件类型
-        output: web, pdf
+        output: web
         subfolderitems:
 
         - title: 数据组件
