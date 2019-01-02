@@ -10,5 +10,3 @@ folder: mydoc
 # 将组件添加到文档
 ![添加组件](https://datafor123.github.io/images/add_components/1.gif)
 
-<div align=center><img width = '150' height ='150' src ="https://datafor123.github.io/images/add_components/1.gif"/></div>
-
