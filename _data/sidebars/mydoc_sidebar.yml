@@ -83,8 +83,8 @@ entries:
       url: /mydoc_install_jekyll_on_mac.html
       output: web, pdf
 
-    - title: 突出显示
-      url: /mydoc_install_jekyll_on_windows.html
+    - title: 突出显示指标
+      url: /tuchuxianshi.html
       output: web, pdf
 
   - title: 分析
