@@ -42,18 +42,22 @@ entries:
     folderitems:
 
     - title: 创建文档
-      url: /tuchuxianshi.html
+      url: /chuangjianwendang.html
       output: web, pdf
 
-    - title: 文档属性
-      url: /mydoc_release_notes_50.html
+    - title: 管理文档
+      url: /guanliwendang.html
       output: web, pdf
       
-    - title: 上传下载
+    - title: 分享文档
       url: /mydoc_release_notes_50.html
       output: web, pdf
 
     - title: 嵌入
+      url: /mydoc_release_notes_50.html
+      output: web, pdf
+      
+    - title: 导出数据
       url: /mydoc_release_notes_50.html
       output: web, pdf      
 
@@ -62,31 +66,42 @@ entries:
     folderitems:
     - title: 将组件添加到文档
       url: /add_component.html
-      output: web, pdf    
-    - title: Tag archives overview
-      url: /mydoc_tag_archives_overview.html
+      output: web, pdf   
+      
+    - title: 对齐和布局
+      url: /duiqihebuju.html
       output: web
+      
+    - title: 突出显示指标
+      url: /tuchuxianshi.html
+      output: web, pdf
+
+    - title: 指标卡设置同环比
+      url: /zhibiaokashezhitonghuanbi.html
+      output: web, pdf          
+      
+    - title: 时间轴
+      url: /shijianzhou.html
+      output: web, pdf 
+      
       subfolders:
       - title: 组件类型
         output: web
         subfolderitems:
 
         - title: 数据组件
-          url: /data_components.html
+          url: /shujuzhujian.html
           output: web
 
         - title: 静态组件
-          url: /data_components.html
+          url: /jingtaizhujian.html
+          output: web 
+          
+        - title: 筛选组件
+          url: /shaixuanzhujian.html
           output: web 
 
-    - title: 样式设置
-      url: /mydoc_install_jekyll_on_mac.html
-      output: web, pdf
-
-    - title: 突出显示指标
-      url: /tuchuxianshi.html
-      output: web, pdf
-
+ 
   - title: 分析
     output: web, pdf
 
@@ -120,6 +135,10 @@ entries:
     output: web, pdf
 
     folderitems:
+    - title: Mondrian配置
+      url: /mydoc_sidebar_navigation.html
+      output: web, pdf    
+    
     - title: 修改模型
       url: /mydoc_sidebar_navigation.html
       output: web, pdf
