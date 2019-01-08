@@ -8,9 +8,12 @@ permalink: chuangjianwendang.html
 folder: mydoc
 ---
 
-主页面选择“新建”按钮或在“文件”菜单选择“新建”，选择“Datafor Document"
+1. 主页面选择“新建”按钮或在“文件”菜单选择“新建”，选择“Datafor Document"
 
 ![新建文档](https://datafor123.github.io/images/chuangjianwendang/chuangjianwendang-1.gif)
+
+2. 文档编辑窗口
+![文档编辑](https://datafor123.github.io/images/chuangjianwendang/chuangjianwendang-2.png)
 
 | 编号 |                 说明                 |
 | :--: | :----------------------------------: |
@@ -20,5 +23,5 @@ folder: mydoc
 |  4   | 组件面板、页面样式面板、页面行为面板 |
 |  5   |                 画布                 |
 
-![新增规则](https://datafor123.github.io/images/tuchuxianshi/chuangjianwendang-2.png)
+
 
