@@ -42,7 +42,7 @@ entries:
     folderitems:
 
     - title: 创建文档
-      url: /mydoc_release_notes_60.html
+      url: /tuchuxianshi.html
       output: web, pdf
 
     - title: 文档属性
