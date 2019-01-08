@@ -13,7 +13,7 @@ folder: mydoc
 ![新建文档](https://datafor123.github.io/images/chuangjianwendang/chuangjianwendang-1.gif)
 
 2. 文档编辑窗口
-![文档编辑](https://datafor123.github.io/images/chuangjianwendang/chuangjianwendang-2.png)
+![文档编辑](https://datafor123.github.io/images/chuangjianwendang/chuangjianwendang-2.PNG)
 
 | 编号 |                 说明                 |
 | :--: | :----------------------------------: |
