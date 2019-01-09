@@ -11,7 +11,7 @@ folder: mydoc
 1. 在度量选择面板，点击“创建计算度量”按钮
 
 <p align="left">
-    <img src="https://datafor123.github.io/images/jisuanziduan/jisuanduliang/jisuanduliang-1.png"  width="250" >
+    <img src="https://datafor123.github.io/images/jisuanziduan/jisuanduliang/jisuanduliang-1.png"  width="200" >
 </p>
 
 
