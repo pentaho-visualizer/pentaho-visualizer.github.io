@@ -14,5 +14,5 @@ folder: mydoc
 
 2. 在计算成员公式编辑窗口添加计算成员
 
-![新增计算成员](https://datafor123.github.io/images/jisuanziduan/chuangjianwendang/chuangjianwendang-2.png)
+![新增计算成员](https://datafor123.github.io/images/jisuanziduan/jisuanchengyuan/jisuanchengyuan-2.png)
 
