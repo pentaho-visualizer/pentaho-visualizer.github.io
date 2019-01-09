@@ -14,6 +14,7 @@ folder: mydoc
     <img src="https://datafor123.github.io/images/jisuanziduan/jisuanduliang/jisuanduliang-1.png"  width="200" >
 </p>
 
+![image-title-here](https://datafor123.github.io/images/jisuanziduan/jisuanduliang/jisuanduliang-1.png){:class="img-responsive"}
 
 2. 编辑计算度量公式
 
