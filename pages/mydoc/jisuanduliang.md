@@ -10,7 +10,10 @@ folder: mydoc
 
 1. 在维度成员选择面板，选中一个成员，点击查看数据按钮
 
-![计算成员](https://datafor123.github.io/images/jisuanziduan/jisuanduliang/jisuanduliang-1.png = 100x)
+<p align="center">
+    <img src="https://datafor123.github.io/images/jisuanziduan/jisuanduliang/jisuanduliang-1.png" alt="Sample"  width="250" >
+</p>
+
 
 2. 在计算成员公式编辑窗口添加计算成员
 
