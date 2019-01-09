@@ -14,10 +14,11 @@ permalink: index.html
 
 - 探索式数据分析，帮助您轻松挖掘数据的价值；
 
-- 简单易用，让每个人都能使用数据、驾驭数据。
+- 简单易用，让每个人都能使用数据、驾驭数据。  
 
+  
+  
 
-
-## Datafor在Pentaho架构中的位置
+## Datafor在Pentaho平台中的位置
 
 ![架构](https://datafor123.github.io/images/jiagou.png)
