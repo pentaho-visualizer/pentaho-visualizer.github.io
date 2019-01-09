@@ -126,11 +126,10 @@ entries:
       url: /mydoc_content_reuse.html
       output: web, pdf
     
-    subfolders:
+      subfolders:
       - title: 计算字段
         output: web
         subfolderitems:
-
         - title: 计算成员
           url: /jisuanchengyuan.html
           output: web
@@ -138,8 +137,6 @@ entries:
         - title: 计算度量
           url: /jisuanduliang.html
           output: web 
-
-
 
   - title: 其它
     output: web, pdf
