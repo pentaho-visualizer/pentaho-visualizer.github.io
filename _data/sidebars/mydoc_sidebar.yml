@@ -125,10 +125,20 @@ entries:
     - title: 排序
       url: /mydoc_content_reuse.html
       output: web, pdf
+    
+    subfolders:
+      - title: 计算字段
+        output: web
+        subfolderitems:
 
-    - title: 计算字段
-      url: /mydoc_collections.html
-      output: web, pdf
+        - title: 计算成员
+          url: /jisuanchengyuan.html
+          output: web
+
+        - title: 计算度量
+          url: /jisuanduliang.html
+          output: web 
+
 
 
   - title: 其它
