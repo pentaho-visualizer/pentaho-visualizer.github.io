@@ -8,11 +8,17 @@ permalink: jisuanduliang.html
 folder: mydoc
 ---
 
-1. 在维度成员选择面板，选中一个成员，点击查看数据按钮
+1. 在度量选择面板，点击“创建计算度量”按钮
 
-![计算成员](https://datafor123.github.io/images/jisuanziduan/jisuanduliang/jisuanduliang-1.png)
+<p align="left">
+    <img src="https://datafor123.github.io/images/jisuanziduan/jisuanduliang/jisuanduliang-1.png" alt="Sample"  width="250" >
+</p>
 
-2. 在计算成员公式编辑窗口添加计算成员
 
-![新增计算成员](https://datafor123.github.io/images/jisuanziduan/jisuanchengyuan/jisuanchengyuan-2.png)
+2. 编辑计算度量公式
+
+<p align="left">
+    <img src="https://datafor123.github.io/images/jisuanziduan/jisuanduliang/jisuanduliang-2.png" alt="Sample"  width="600" >
+</p>
+
 
