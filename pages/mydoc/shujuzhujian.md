@@ -6,4 +6,4 @@ sidebar: mydoc_sidebar
 permalink: shujuzhujian.html
 ---
 
-# 折线图
+[折线图](https://datafor123.github.io/zhexiantu.html)
