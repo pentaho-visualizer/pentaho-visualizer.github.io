@@ -6,13 +6,13 @@ sidebar: mydoc_sidebar
 permalink: duiqihebuju.html
 ---
 
-# 选中组件
+## 选中组件
 - 按住鼠标左键，拖动鼠标，将组件包含在拖动区域范围
 - 按住Ctrl按键，并依次单击组件，选中多个组件
 
 ![饼图](https://datafor123.github.io/images/duiqihebuju/1.png)
 
-# 对齐组件
+## 对齐组件
 
 | 对齐方式     | 说明 |
 | ------------ | ---- |
@@ -25,7 +25,7 @@ permalink: duiqihebuju.html
 
 
 
-# 分布组件
+## 分布组件
 
 | 分布方式     | 说明 |
 | ------------ | ---- |
