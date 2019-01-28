@@ -11,7 +11,7 @@ permalink: zhuzhuangtu.html
 
 基础柱状图，使用垂直的柱子显示类别之间的数值比较。其中一个轴表示需要对比的分类维度，另一个轴代表相应的数值。
 
-![柱状图](https://datafor123.github.io/images/shujuzujian/zhuzhuangtu/1.PNG)
+![柱状图](https://datafor123.github.io/images/shujuzujian/zhuzhuangtu/1.png)
 
 
 
