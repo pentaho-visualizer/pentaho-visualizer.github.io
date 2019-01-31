@@ -11,9 +11,9 @@ folder: mydoc
 1. 在维度成员选择面板，选中一个成员，点击查看数据按钮 {% include inline_image.html
 file="/jisuanziduan/jisuanchengyuan/button.png" alt="SDK button" %}
 
-![计算成员](https://datafor123.github.io/images/jisuanziduan/jisuanchengyuan/jisuanchengyuan-1.png)
+![计算成员](https://dataforhelp.github.io/images/jisuanziduan/jisuanchengyuan/jisuanchengyuan-1.png)
 
 2. 在计算成员公式编辑窗口添加计算成员
 
-![新增计算成员](https://datafor123.github.io/images/jisuanziduan/jisuanchengyuan/jisuanchengyuan-2.png)
+![新增计算成员](https://dataforhelp.github.io/images/jisuanziduan/jisuanchengyuan/jisuanchengyuan-2.png)
 

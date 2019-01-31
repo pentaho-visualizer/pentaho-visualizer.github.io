@@ -11,11 +11,11 @@ folder: mydoc
 1. 主页面选择“新建”按钮或在“文件”菜单选择“新建”，选择“Datafor Document"
 
 
-![新建文档](https://datafor123.github.io/images/chuangjianwendang/chuangjianwendang-1.gif)
+![新建文档](https://dataforhelp.github.io/images/chuangjianwendang/chuangjianwendang-1.gif)
 
 2. 文档编辑窗口
 
-![文档编辑](https://datafor123.github.io/images/chuangjianwendang/chuangjianwendang-2.PNG)
+![文档编辑](https://dataforhelp.github.io/images/chuangjianwendang/chuangjianwendang-2.PNG)
 
 | 编号 |                 说明                 |
 | :--: | ----------------------------------|

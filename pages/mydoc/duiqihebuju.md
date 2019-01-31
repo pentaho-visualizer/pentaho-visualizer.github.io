@@ -10,7 +10,7 @@ permalink: duiqihebuju.html
 - 按住鼠标左键，拖动鼠标，将组件包含在拖动区域范围
 - 按住Ctrl按键，并依次单击组件，选中多个组件
 
-![饼图](https://datafor123.github.io/images/duiqihebuju/1.png)
+![饼图](https://dataforhelp.github.io/images/duiqihebuju/1.png)
 
 ## 对齐组件
 

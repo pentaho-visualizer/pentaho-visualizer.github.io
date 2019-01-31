@@ -11,13 +11,13 @@ permalink: zhexiantu.html
 
 折线图用于显示数据在一个连续的时间间隔或者时间跨度上的变化，它的特点是反映事物随时间或有序类别而变化的趋势。
 
-![折线图](https://datafor123.github.io/images/shujuzujian/zhexiantu/1.PNG)
+![折线图](https://dataforhelp.github.io/images/shujuzujian/zhexiantu/1.PNG)
 
 ## 构成
 
 
 
-![折线图构成](https://datafor123.github.io/images/shujuzujian/zhexiantu/2.png)
+![折线图构成](https://dataforhelp.github.io/images/shujuzujian/zhexiantu/2.png)
 
 | 图表类型         | 折线图                                                   |
 | ---------------- | -------------------------------------------------------- |

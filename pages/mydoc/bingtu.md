@@ -18,11 +18,11 @@ permalink: bingtu.html
 很难进行多个饼图之间的数值比较。
 尽管如此，在一张饼图上比较一个数据系列上各个分类的大小占比还是很方便高效的。
 
-![饼图](https://datafor123.github.io/images/shujuzujian/bingtu/1.png)
+![饼图](https://dataforhelp.github.io/images/shujuzujian/bingtu/1.png)
 
 ## 构成
 
-![饼图构成](https://datafor123.github.io/images/shujuzujian/bingtu/2.png)
+![饼图构成](https://dataforhelp.github.io/images/shujuzujian/bingtu/2.png)
 
 | 图表类型         | 饼图                                                         |
 | ---------------- | ------------------------------------------------------------ |

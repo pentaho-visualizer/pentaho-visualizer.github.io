@@ -11,15 +11,15 @@ folder: mydoc
 1. 在度量选择面板，点击“创建计算度量”按钮
 
 <p align="left">
-    <img src="https://datafor123.github.io/images/jisuanziduan/jisuanduliang/jisuanduliang-1.png"  width="200" >
+    <img src="https://dataforhelp.github.io/images/jisuanziduan/jisuanduliang/jisuanduliang-1.png"  width="200" >
 </p>
 
-![image-title-here](https://datafor123.github.io/images/jisuanziduan/jisuanduliang/jisuanduliang-1.png){:class="img-responsive"}
+![image-title-here](https://dataforhelp.github.io/images/jisuanziduan/jisuanduliang/jisuanduliang-1.png){:class="img-responsive"}
 
 2. 编辑计算度量公式
 
 <p align="left">
-    <img src="https://datafor123.github.io/images/jisuanziduan/jisuanduliang/jisuanduliang-2.png"  width="600" >
+    <img src="https://dataforhelp.github.io/images/jisuanziduan/jisuanduliang/jisuanduliang-2.png"  width="600" >
 </p>
 
 

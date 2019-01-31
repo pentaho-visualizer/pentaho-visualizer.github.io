@@ -18,13 +18,13 @@ permalink: mianjitu.html
 - 一般面积图：所有的数据都从相同的零轴开始。
 - 层叠面积图：每一个数据集的起点不同，都是基于前一个数据集。用于显示每个数值所占大小随时间或类别变化的趋势线，堆叠起来的面积图在表现大数据的总量分量的变化情况时格外有用。另外还有百分比层叠面积图，用于显示每个数值所占百分比随时间或类别变化的趋势线。可强调每个系列的比例趋势线。
 
-![面积图](https://datafor123.github.io/images/shujuzujian/mianjitu/1.png)
+![面积图](https://dataforhelp.github.io/images/shujuzujian/mianjitu/1.png)
 
 
 
 ## 构成
 
-![面积图构成](https://datafor123.github.io/images/shujuzujian/mianjitu/2.png)
+![面积图构成](https://dataforhelp.github.io/images/shujuzujian/mianjitu/2.png)
 
 | 图表类型         | 面积图                           |
 | ---------------- | -------------------------------- |
