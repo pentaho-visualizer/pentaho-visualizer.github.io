@@ -21,4 +21,4 @@ permalink: index.html
 
 “Datafor文档”和“Pentaho Analysis”都属于数据探索分析与可视化工具，都使用“多维数据集”作为数据源。“Datafor文档”适用于创建数字大屏、交互式仪表盘、报表、数据可视化文档等应用场景。
 
-![架构](https://datafor123.github.io/images/jiagou.png)
+![架构](https://dataforhelp.github.io/images/jiagou.png)
