@@ -27,6 +27,10 @@ entries:
       url: /index.html
       output: web, pdf
       type: homepage
+      
+    - title: 为什么基于Pentaho设计
+      url: /base_pentaho.html
+      output: web, pdf  
 
     - title: 安装
       url: /anzhuang.html
