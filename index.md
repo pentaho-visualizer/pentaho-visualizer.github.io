@@ -5,7 +5,7 @@ tags: [getting_started]
 sidebar: mydoc_sidebar
 permalink: index.html
 typora-copy-images-to: images
-typora-root-url: images
+
 ---
 
 ### 简介
@@ -23,4 +23,4 @@ typora-root-url: images
 
 “Datafor文档”和“Pentaho Analysis”都属于数据探索分析与可视化工具，都使用“多维数据集”作为数据源。“Datafor文档”适用于创建数字大屏、交互式仪表盘、报表、数据可视化文档等应用场景。
 
-![](/datafor.png)
+![](images/datafor-1574064646839.png)
