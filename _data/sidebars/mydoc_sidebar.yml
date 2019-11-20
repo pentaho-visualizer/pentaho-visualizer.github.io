@@ -72,29 +72,17 @@ entries:
       url: /shijianzhou.html
       output: web, pdf 
 
-      subfolders:
-      - title: 地图组件
+       subfolders:
+      - title: 过滤组件1
         output: web
         subfolderitems:
 
-        - title: 填充地图
-          url: /tianchongditu.html
+        - title: 列表
+          url: /111.html
           output: web
 
-        - title: 标记地图
-          url: /biaojiditu.html
-          output: web 
-          
-        - title: 热力地图
-          url: /reliditu.html
-          output: web   
-          
-        - title: GIS着色地图
-          url: /gis_zhaoseditu.html
-          output: web 
-          
-        - title: GIS标记地图
-          url: /gis_biaojiditu.html
+        - title: 时间
+          url: /shiji222an.html
           output: web 
           
   - title: 分析
