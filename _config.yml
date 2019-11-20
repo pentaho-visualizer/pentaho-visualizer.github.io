@@ -114,4 +114,4 @@ description: "DATAFOR DOCUMENT"
 # url: http://idratherbewriting.com
 # baseurl: /documentation-theme-jekyll
 
-theme: jekyll-theme-cayman
+theme: jekyll-theme-minimal
