@@ -72,16 +72,16 @@ entries:
       url: /shijianzhou.html
       output: web, pdf 
 
-       subfolders:
+      subfolders:
       - title: 过滤组件1
         output: web
         subfolderitems:
 
-        - title: 列表
+        - title: 列表1
           url: /111.html
           output: web
 
-        - title: 时间
+        - title: 时间1
           url: /shiji222an.html
           output: web 
           
