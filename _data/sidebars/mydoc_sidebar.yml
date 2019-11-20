@@ -71,7 +71,32 @@ entries:
     - title: 时间轴
       url: /shijianzhou.html
       output: web, pdf 
+      
+      subfolders:
+      - title: 地图组件
+        output: web
+        subfolderitems:
 
+        - title: 填充地图
+          url: /tianchongditu.html
+          output: web
+
+        - title: 标记地图
+          url: /biaojiditu.html
+          output: web 
+          
+        - title: 热力地图
+          url: /reliditu.html
+          output: web   
+          
+        - title: GIS着色地图
+          url: /gis_zhaoseditu.html
+          output: web 
+          
+        - title: GIS标记地图
+          url: /gis_biaojiditu.html
+          output: web 
+      
       subfolders:
       - title: 过滤组件1
         output: web
