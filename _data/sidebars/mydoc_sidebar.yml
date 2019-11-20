@@ -72,6 +72,7 @@ entries:
       url: /shijianzhou.html
       output: web, pdf 
       
+
       subfolders:
       - title: 图表组件
         output: web
@@ -88,6 +89,10 @@ entries:
         - title: 柱状图
           url: /zhuzhuangtu.html
           output: web 
+          
+    - title: 时间轴
+      url: /shijianzhou.html
+      output: web, pdf           
           
       subfolders:
       - title: 地图组件
@@ -113,6 +118,10 @@ entries:
         - title: GIS标记地图
           url: /gis_biaojiditu.html
           output: web 
+ 
+    - title: 时间轴
+      url: /shijianzhou.html
+      output: web, pdf           
           
        subfolders:
       - title: 过滤组件
