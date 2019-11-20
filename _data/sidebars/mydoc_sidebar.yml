@@ -35,30 +35,19 @@ entries:
     - title: 安装Datafor
       url: /anzhuang.html
       output: web, pdf
-
-  - title: 介绍
+      
+  - title: 开始
     output: web, pdf
     folderitems:
+    
+    - title: 创建数据源
+      url: /datasource.html
+      output: web, pdf     
 
     - title: 创建文档
-      url: /chuangjianwendang.html
+      url:  /chuangjianwendang.html
       output: web, pdf
-
-    - title: 管理文档
-      url: /guanliwendang.html
-      output: web, pdf
-      
-    - title: 分享文档
-      url: /mydoc_release_notes_50.html
-      output: web, pdf
-
-    - title: 嵌入
-      url: /mydoc_release_notes_50.html
-      output: web, pdf
-      
-    - title: 导出数据
-      url: /mydoc_release_notes_50.html
-      output: web, pdf      
+      type: homepage
 
   - title: 可视化
     output: web
@@ -84,22 +73,46 @@ entries:
       output: web, pdf 
       
       subfolders:
-      - title: 组件类型
+      - title: 图表组件
         output: web
         subfolderitems:
 
-        - title: 数据组件
-          url: /shujuzhujian.html
+        - title: 折线图
+          url: /zhexiantu.html
           output: web
 
-        - title: 静态组件
-          url: /jingtaizhujian.html
+        - title: 饼图
+          url: /bingtu.html
           output: web 
           
-        - title: 筛选组件
-          url: /shaixuanzhujian.html
+        - title: 柱状图
+          url: /zhuzhuangtu.html
           output: web 
+          
+      subfolders:
+      - title: 地图组件
+        output: web
+        subfolderitems:
 
+        - title: 填充地图
+          url: /tianchongditu.html
+          output: web
+
+        - title: 标记地图
+          url: /biaojiditu.html
+          output: web 
+          
+        - title: 热力地图
+          url: /reliditu.html
+          output: web   
+          
+        - title: GIS着色地图
+          url: /gis_zhaoseditu.html
+          output: web 
+          
+        - title: GIS标记地图
+          url: /gis_biaojiditu.html
+          output: web 
  
   - title: 分析
     output: web, pdf
