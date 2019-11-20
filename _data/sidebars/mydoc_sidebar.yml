@@ -36,7 +36,7 @@ entries:
       url: /anzhuang.html
       output: web, pdf
 
-  - title: 可视化
+  - title: 介绍
     output: web, pdf
     folderitems:
 
@@ -59,23 +59,8 @@ entries:
     - title: 导出数据
       url: /mydoc_release_notes_50.html
       output: web, pdf      
-         subfolders:
-          - title: 组件类型
-            output: web
-            subfolderitems:
 
-            - title: 折线图
-              url: /zhexiantu.html
-              output: web, pdf  
-
-            - title: 饼图
-              url: /bingtu.html
-              output: web, pdf
-              
-            - title: 柱状图
-              url: /zhuzhuangtu.html
-              output: web, pdf
-  - title: 分析
+  - title: 可视化
     output: web
     folderitems:
     - title: 将组件添加到文档
@@ -116,7 +101,7 @@ entries:
           output: web 
 
  
-  - title: 教程
+  - title: 分析
     output: web, pdf
 
     folderitems:
