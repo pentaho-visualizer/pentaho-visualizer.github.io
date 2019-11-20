@@ -56,18 +56,7 @@ entries:
       url: /add_component.html
       output: web, pdf  
 
-      subfolders:
-      - title: 过滤组件1
-        output: web
-        subfolderitems:
-
-        - title: 列表1
-          url: /111.html
-          output: web
-
-        - title: 时间1
-          url: /shiji222an.html
-          output: web      
+    
       
     - title: 对齐和布局
       url: /duiqihebuju.html
@@ -84,6 +73,19 @@ entries:
     - title: 时间轴
       url: /shijianzhou.html
       output: web, pdf 
+
+      subfolders:
+      - title: 过滤组件1
+        output: web
+        subfolderitems:
+
+        - title: 列表1
+          url: /111.html
+          output: web
+
+        - title: 时间1
+          url: /shiji222an.html
+          output: web        
       
       subfolders:
       - title: 地图组件
