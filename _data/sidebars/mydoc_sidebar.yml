@@ -120,11 +120,11 @@ entries:
         subfolderitems:
 
         - title: 列表
-          url: /tianchongditu.html
+          url: /liebiao.html
           output: web
 
         - title: 时间
-          url: /biaojiditu.html
+          url: /shijian.html
           output: web 
           
   - title: 分析
