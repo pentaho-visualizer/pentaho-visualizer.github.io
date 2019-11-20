@@ -54,7 +54,20 @@ entries:
     folderitems:
     - title: 将组件添加到文档
       url: /add_component.html
-      output: web, pdf   
+      output: web, pdf  
+
+      subfolders:
+      - title: 过滤组件1
+        output: web
+        subfolderitems:
+
+        - title: 列表1
+          url: /111.html
+          output: web
+
+        - title: 时间1
+          url: /shiji222an.html
+          output: web      
       
     - title: 对齐和布局
       url: /duiqihebuju.html
@@ -97,18 +110,7 @@ entries:
           url: /gis_biaojiditu.html
           output: web 
       
-      subfolders2:
-      - title: 过滤组件1
-        output: web
-        subfolderitems:
-
-        - title: 列表1
-          url: /111.html
-          output: web
-
-        - title: 时间1
-          url: /shiji222an.html
-          output: web 
+ 
           
   - title: 分析
     output: web, pdf
