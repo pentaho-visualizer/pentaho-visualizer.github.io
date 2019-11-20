@@ -97,7 +97,7 @@ entries:
           url: /gis_biaojiditu.html
           output: web 
       
-      subfolders:
+      subfolders2:
       - title: 过滤组件1
         output: web
         subfolderitems:
