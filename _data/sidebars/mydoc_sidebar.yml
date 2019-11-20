@@ -56,20 +56,6 @@ entries:
       url: /add_component.html
       output: web, pdf  
 
-    
-      
-    - title: 对齐和布局
-      url: /duiqihebuju.html
-      output: web
-      
-    - title: 突出显示指标
-      url: /tuchuxianshi.html
-      output: web, pdf
-
-    - title: 指标卡设置同环比
-      url: /zhibiaokashezhitonghuanbi.html
-      output: web, pdf  
-      
        subfolders:
       - title: 过滤组件1
         output: web
@@ -81,12 +67,24 @@ entries:
 
         - title: 时间1
           url: /shiji222an.html
-          output: web   
-          
+          output: web    
+      
+    - title: 对齐和布局
+      url: /duiqihebuju.html
+      output: web
+      
+    - title: 突出显示指标
+      url: /tuchuxianshi.html
+      output: web, pdf
+
+    - title: 指标卡设置同环比
+      url: /zhibiaokashezhitonghuanbi.html
+      output: web, pdf          
+      
     - title: 时间轴
       url: /shijianzhou.html
       output: web, pdf 
-
+    
       subfolders:
       - title: 地图组件
         output: web
