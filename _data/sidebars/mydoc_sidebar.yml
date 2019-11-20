@@ -19,7 +19,7 @@ entries:
       output: pdf
       type: frontmatter
 
-  - title: 概览
+  - title: 概述
     output: web, pdf
     folderitems:
 
@@ -32,16 +32,11 @@ entries:
       url: /base_pentaho.html
       output: web, pdf  
 
-    - title: 安装
+    - title: 安装Datafor
       url: /anzhuang.html
       output: web, pdf
 
-    - title: 模块介绍
-      url: /mydoc_supported_features.html
-      output: web, pdf
-
-
-  - title: 文档
+  - title: 可视化
     output: web, pdf
     folderitems:
 
@@ -64,8 +59,23 @@ entries:
     - title: 导出数据
       url: /mydoc_release_notes_50.html
       output: web, pdf      
+         subfolders:
+          - title: 组件类型
+            output: web
+            subfolderitems:
 
-  - title: 可视化
+            - title: 折线图
+              url: /zhexiantu.html
+              output: web, pdf  
+
+            - title: 饼图
+              url: /bingtu.html
+              output: web, pdf
+              
+            - title: 柱状图
+              url: /zhuzhuangtu.html
+              output: web, pdf
+  - title: 分析
     output: web
     folderitems:
     - title: 将组件添加到文档
@@ -106,7 +116,7 @@ entries:
           output: web 
 
  
-  - title: 分析
+  - title: 教程
     output: web, pdf
 
     folderitems:
