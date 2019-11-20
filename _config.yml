@@ -113,3 +113,5 @@ description: "DATAFOR DOCUMENT"
 # needed for sitemap.xml file only
 # url: http://idratherbewriting.com
 # baseurl: /documentation-theme-jekyll
+
+theme: jekyll-theme-cayman
