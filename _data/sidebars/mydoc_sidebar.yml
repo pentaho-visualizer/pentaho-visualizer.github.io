@@ -179,15 +179,11 @@ entries:
       output: web, pdf
 
     - title: 联动
-      url: /mydoc_lists.html
+      url: /liandong.html
       output: web, pdf
 
     - title: 下钻
-      url: /mydoc_conditional_logic.html
-      output: web, pdf
-
-    - title: 排序
-      url: /mydoc_content_reuse.html
+      url: /xiazhuan.html
       output: web, pdf
       
     - title: 参考线
