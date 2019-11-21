@@ -213,6 +213,18 @@ entries:
     - title: 嵌入
       url: /qianru.html
       output: web, pdf 
+      
+  - title: 高级教程
+    output: web, pdf
+
+    folderitems:
+    - title: CSS设置样式
+      url: /css.html
+      output: web, pdf    
+    
+    - title: 自定义组件
+      url: /mydoc_yaml_tutorial.html
+      output: web, pdf     
 
   - title: 其它
     output: web, pdf
@@ -224,10 +236,6 @@ entries:
     
     - title: 修改模型
       url: /mydoc_sidebar_navigation.html
-      output: web, pdf
-
-    - title: 自定义组件
-      url: /mydoc_yaml_tutorial.html
       output: web, pdf
 
     - title: 数据权限
