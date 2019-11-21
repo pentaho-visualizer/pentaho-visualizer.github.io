@@ -17,8 +17,6 @@ permalink: anzhuang.html
         <extension>datafor</extension>
    </MimeTypeDefinition>
    ```
-
-   
    ![image-20191121164830471](../../../images/image-20191121164830471.png)
 
 3. 修改“pentaho-solutions\system”目录下的applicationContext-spring-security.xml文件，添加如下代码：
@@ -26,7 +24,6 @@ permalink: anzhuang.html
    ```xml
    <sec:intercept-url pattern="\A/plugin/datafor/api/openshare.*\Z" access="Anonymous,Authenticated" />
    ```
-
    ![image-20191121165155937](../../../images/image-20191121165155937.png)
 
 4.  重启Pentaho PBA，安装完成
