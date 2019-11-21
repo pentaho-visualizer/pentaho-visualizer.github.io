@@ -6,7 +6,7 @@ permalink: /tocpage.html/
 
 <!-- new page -->
 <div id="navig">
-    <h1>目录</h1>
+    <h1>Table of Contents</h1>
 
     {% assign sidebar = site.data.sidebars[site.pdf_sidebar].entries %}
 
@@ -25,7 +25,7 @@ permalink: /tocpage.html/
                     <ul>
                         {% for subfolderitem in subfolders.subfolderitems%}
                         {% if subfolderitem.output contains "pdf" and subfolderitem.type != "frontmatter"%}
-                       <!-- <li><a href="{{subfolderitem.url | prepend: site.baseurl}}">{{subfolderitem.title}}</a></li>  -->
+                        <li><a href="{{subfolderitem.url | prepend: site.baseurl}}">{{subfolderitem.title}}</a></li>
                         {% endif %}
                         {% endfor %}
                     </ul>
