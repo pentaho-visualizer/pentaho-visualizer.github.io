@@ -202,6 +202,18 @@ entries:
           url: /jisuanduliang.html
           output: web 
 
+  - title: 分享与嵌入
+    output: web, pdf
+
+    folderitems:
+    - title: 分享
+      url: /fenxiang.html
+      output: web, pdf    
+    
+    - title: 嵌入
+      url: /qianru.html
+      output: web, pdf 
+
   - title: 其它
     output: web, pdf
 
@@ -220,4 +232,4 @@ entries:
 
     - title: 数据权限
       url: /mydoc_tags.html
-      output: web, pdf
+      output: web, pdf      

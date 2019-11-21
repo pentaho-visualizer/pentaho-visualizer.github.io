@@ -3,7 +3,6 @@ title: 数据联动
 tags: [联动]
 last_updated: 2018年12月28日
 keywords: 联动,筛选
-filtering
 sidebar: mydoc_sidebar
 permalink: liandong.html
 folder: mydoc
@@ -16,4 +15,3 @@ folder: mydoc
 在数据组件的“行为”面板，选择”图表交互“的“过滤”或“下钻和过滤“选项
 
 ![image-20191121173818572](../../../images/image-20191121173818572.png)
-
