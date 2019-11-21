@@ -1,3 +1,10 @@
+---
+title: "透视表"
+keywords: datafor
+tags:
+sidebar: mydoc_sidebar
+permalink: toushibiao.html
+---
 透视表组件，通过交叉表方式显示数据。主要特点如下：
 
 - 交叉表
