@@ -113,40 +113,16 @@ entries:
           url: /gis_biaojiditu.html
           output: web 
 
-       - title: 辅助组件
+      - title: 过滤组件
         output: web
         subfolderitems:
-        
-        - title: 图片
-          url: /tupian.html
+            
+        - title: 列表
+          url: /liebiao.html
           output: web
-          
-        - title: 线条
-          url: /xiantiao.html
-          output: web 
-          
-        - title: 文本
-          url: /wenben.html
-          output: web
-          
-        - title: 标签页
-          url: /biaoqianye.html
-          output: web
-          
-        - title: SVG
-          url: /svg.html
-          output: web
-          
-        - title: 字体
-          url: /ziti.html
-          output: web  
-          
-        - title: 矩形
-          url: /juxing.html
-          output: web
-          
-        - title: 超链接
-          url: /chaolianjie.html
+
+        - title: 时间
+          url: /shijian.html
           output: web            
 
           
