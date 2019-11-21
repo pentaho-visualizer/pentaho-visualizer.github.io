@@ -73,6 +73,22 @@ entries:
       output: web, pdf 
     
       subfolders:
+      - title: 图表组件
+        output: web
+        subfolderitems:
+
+        - title: 折线图
+          url: /zhexiantu.html
+          output: web
+
+        - title: 饼图
+          url: /bingtu.html
+          output: web 
+          
+        - title: 柱状图
+          url: /zhuzhuangtu.html
+          output: web             
+      
       - title: 地图组件
         output: web
         subfolderitems:
@@ -96,22 +112,47 @@ entries:
         - title: GIS标记地图
           url: /gis_biaojiditu.html
           output: web 
-          
-      - title: 图表组件
+
+       subfolders:
+      - title: 辅助组件
         output: web
         subfolderitems:
-
-        - title: 折线图
-          url: /zhexiantu.html
+        - title: 图片
+          url: /tupian.html
+          output: web
+        - title: 线条
+          url: /xiantiao.html
+          output: web 
+        - title: 文本
+          url: /wenben.html
+          output: web
+        - title: 标签页
+          url: /biaoqianye.html
+          output: web
+        - title: SVG
+          url: /svg.html
+          output: web
+        - title: 字体
+          url: /ziti.html
+          output: web  
+        - title: 矩形
+          url: /juxing.html
+          output: web
+        - title: 超链接
+          url: /chaolianjie.html
+          output: web            
+          
+       subfolders:
+      - title: 过滤组件
+        output: web
+        subfolderitems:
+        - title: 列表
+          url: /111.html
           output: web
 
-        - title: 饼图
-          url: /bingtu.html
+        - title: 时间
+          url: /shiji222an.html
           output: web 
-          
-        - title: 柱状图
-          url: /zhuzhuangtu.html
-          output: web  
           
   - title: 分析
     output: web, pdf
