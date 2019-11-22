@@ -57,6 +57,10 @@ entries:
     output: web
     folderitems:
 
+    - title: 制作标签页
+      url: /zhizuobiaoqianye.html
+      output: web, pdf
+      
     - title: 对齐和布局
       url: /duiqihebuju.html
       output: web

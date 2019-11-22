@@ -1,5 +1,5 @@
 ---
-title: "Datafor文档（Pentaho插件1.0版本）"
+title: "Datafor数据可视化与分析(Visualizer)"
 keywords: datafor
 tags: [getting_started]
 sidebar: mydoc_sidebar
