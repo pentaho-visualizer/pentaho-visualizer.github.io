@@ -190,7 +190,7 @@ entries:
       url: /cankaoxian.html
       output: web, pdf
 
-    - title: 数据条数限制(TopN 和BottomN)
+    - title: 数据条数限制(TopN和BottomN)
       url: /top_bottom.html
       output: web, pdf       
     
@@ -238,7 +238,7 @@ entries:
       url: /mydoc_sidebar_navigation.html
       output: web, pdf    
     
-    - title: 修改模型
+    - title: 修改模型的字段类型
       url: /mydoc_sidebar_navigation.html
       output: web, pdf
 
