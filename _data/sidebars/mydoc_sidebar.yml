@@ -99,7 +99,7 @@ entries:
         subfolderitems:
 
         - title: 填充地图
-          url: /tianchongditu.html
+          url: /zhuoseditu.html
           output: web
 
         - title: 标记地图
@@ -188,7 +188,11 @@ entries:
       
     - title: 参考线
       url: /cankaoxian.html
-      output: web, pdf      
+      output: web, pdf
+
+    - title: 数据条数限制(TopN 和BottomN)
+      url: /top_bottom.html
+      output: web, pdf       
     
       subfolders:
       - title: 计算字段

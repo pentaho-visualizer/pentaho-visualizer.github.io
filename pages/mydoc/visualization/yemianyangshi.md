@@ -1,7 +1,8 @@
 ---
-title: "数据组件"
+title: "页面样式"
 keywords: datafor
 tags:
 sidebar: mydoc_sidebar
-permalink: shujuzhujian.html
+permalink: yemianyangshi.html
 ---
+
