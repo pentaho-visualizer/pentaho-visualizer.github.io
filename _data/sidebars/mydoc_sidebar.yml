@@ -61,7 +61,7 @@ entries:
       url: /zhizuobiaoqianye.html
       output: web, pdf
       
-    - title: 对齐和布局
+    - title: 组件对齐和布局
       url: /duiqihebuju.html
       output: web
       
@@ -76,7 +76,11 @@ entries:
     - title: “时间轴”的使用
       url: /shijianzhou.html
       output: web, pdf 
-    
+
+    - title: 制作表格热力图
+      url: /biaogerelitu.html
+      output: web, pdf
+      
       subfolders:
       - title: 图表组件
         output: web
@@ -138,37 +142,9 @@ entries:
         output: web
         subfolderitems:
         
-        - title: 图片
-          url: /tupian.html
-          output: web
-          
-        - title: 线条
-          url: /xiantiao.html
-          output: web 
-          
-        - title: 文本
-          url: /wenben.html
-          output: web
-          
-        - title: 标签页
-          url: /biaoqianye.html
-          output: web
-          
-        - title: SVG
-          url: /svg.html
-          output: web
-          
-        - title: 字体
-          url: /ziti.html
-          output: web  
-          
-        - title: 矩形
-          url: /juxing.html
-          output: web
-          
-        - title: 超链接
-          url: /chaolianjie.html
-          output: web 			  
+        - title: 辅助组件
+          url: /assist.html
+          output: web	  
           
   - title: 分析
     output: web, pdf
