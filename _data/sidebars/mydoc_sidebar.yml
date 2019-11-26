@@ -100,7 +100,11 @@ entries:
           
         - title: 柱状图
           url: /zhuzhuangtu.html
-          output: web             
+          output: web   
+          
+        - title: 面积图
+          url: /mianjitu.html
+          output: web            
       
       - title: 地图组件
         output: web

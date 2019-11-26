@@ -26,7 +26,6 @@ permalink: zhexiantu.html
 | 度量 | Y轴数据字段                        |
 
 ## 样式
-
 <table>
 <tr>
     <td><b>类别</b></td>
