@@ -228,4 +228,17 @@ entries:
 
     - title: 数据权限
       url: /mydoc_tags.html
-      output: web, pdf      
+      output: web, pdf 
+      
+  - title: 视频
+    output: web
+
+    folderitems:
+    - title: 创建数据源
+      url: /shujuyuan.html
+      output: web
+    
+    - title: 创建仪表盘
+      url: /chuangjianyibiaopan.html
+      output: web  
+       
