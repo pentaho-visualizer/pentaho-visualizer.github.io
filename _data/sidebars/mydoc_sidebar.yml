@@ -243,7 +243,7 @@ entries:
       output: web  
        
     - title: 创建手机端仪表盘
-      url: /shouji.html.html
+      url: /shouji.html
       output: web  
        
     - title: 创建大屏页面
