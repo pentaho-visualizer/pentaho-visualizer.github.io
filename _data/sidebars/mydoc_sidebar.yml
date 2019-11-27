@@ -235,10 +235,17 @@ entries:
 
     folderitems:
     - title: 创建数据源
-      url: /shujuyuan.html
+      url: /chuangjianshujuyuan_csv.html
       output: web
     
     - title: 创建仪表盘
       url: /chuangjianyibiaopan.html
       output: web  
        
+    - title: 创建手机端仪表盘
+      url: /shouji.html.html
+      output: web  
+       
+    - title: 创建大屏页面
+      url: /daping.html
+      output: web        
