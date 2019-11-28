@@ -152,6 +152,7 @@ entries:
           
   - title: 分析
     output: web, pdf
+    folderitems:  
 
     - title: 筛选
       url: /filter.html
