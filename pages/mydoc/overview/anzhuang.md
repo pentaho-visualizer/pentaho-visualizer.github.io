@@ -6,6 +6,14 @@ sidebar: mydoc_sidebar
 permalink: anzhuang.html
 ---
 
+### 下载Datafor
+
+下载地址：
+
+ https://github.com/datafor123/pentaho-plugin 
+
+###  安装Datafor
+
 1. 将datafor.zip解压到  “pentaho-solutions\system” 目录
 
    <img src="../../../images/image-20191121164424482.png" alt="image-20191121164424482" style="zoom: 67%;" />
@@ -26,5 +34,5 @@ permalink: anzhuang.html
    ```
    ![image-20191121165155937](../../../images/image-20191121165155937.png)
 
-4.  重启Pentaho PBA，安装完成
+4. 重启Pentaho PBA，安装完成
 

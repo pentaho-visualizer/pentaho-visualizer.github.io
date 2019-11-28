@@ -153,11 +153,6 @@ entries:
   - title: 分析
     output: web, pdf
 
-    folderitems:
-    - title: 过滤
-      url: /mydoc_pages.html
-      output: web, pdf
-
     - title: 筛选
       url: /filter.html
       output: web, pdf
@@ -176,20 +171,16 @@ entries:
 
     - title: 数据条数限制(TopN和BottomN)
       url: /top_bottom.html
-      output: web, pdf       
-    
-      subfolders:
-      - title: 计算字段
-        output: web
-        subfolderitems:
-        - title: 计算成员
-          url: /jisuanchengyuan.html
-          output: web
+      output: web, pdf      
 
-        - title: 计算度量
-          url: /jisuanduliang.html
-          output: web 
+    - title: 计算成员
+      url: /jisuanchengyuan.html
+      output: web, pdf   
 
+    - title: 计算度量
+      url: /jisuanduliang.html
+      output: web, pdf         
+ 
   - title: 分享与嵌入
     output: web, pdf
 
@@ -206,33 +197,29 @@ entries:
       url: /daochu.html
       output: web, pdf      
       
-  - title: 高级教程
-    output: web, pdf
-
-    folderitems:
-    - title: CSS设置样式
-      url: /css.html
-      output: web, pdf    
-    
-    - title: 自定义组件
-      url: /mydoc_yaml_tutorial.html
-      output: web, pdf     
-
   - title: 其它
     output: web, pdf
 
     folderitems:
-    - title: Mondrian配置
-      url: /mydoc_sidebar_navigation.html
+    - title: OLAP引擎
+      url: /mondrian.html
       output: web, pdf    
     
     - title: 修改模型的字段类型
-      url: /mydoc_sidebar_navigation.html
+      url: /xiugaimoxing.html
       output: web, pdf
 
     - title: 数据权限
-      url: /mydoc_tags.html
+      url: /shujuquanxian.html
       output: web, pdf 
+      
+    - title: CSS设置样式
+      url: /css.html
+      output: web, pdf    
+
+    - title: 自定义组件
+      url: /mydoc_yaml_tutorial.html
+      output: web, pdf       
       
   - title: 视频
     output: web
