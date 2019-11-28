@@ -1,14 +1,15 @@
 ---
-title: "GIS标记地图"
+title: "GIS着色地图"
 keywords: datafor
 tags:
 sidebar: mydoc_sidebar
-permalink: biaojiditu.html
+permalink: gis_zhuoseditu.html
 ---
 
-着色地图使用颜色来显示不同地理位置或区域之间的值在比例上有何不同。
+着色地图使用颜色来显示不同地理位置或区域之间的值在比例上有何不同。Datafor插件内置“高德地图”作为GIS地图引擎（用户需自行购买高德地图服务）。
 
-![image-20191122132440022](../../../../images/image-20191122132440022.png)
+![image-20191128142640948](../../../../images/image-20191128142640948.png)
+
 
 ## 数据
 
@@ -49,38 +50,16 @@ permalink: biaojiditu.html
     <td>字体</td>
     <td>标题字体、大小、颜色、加粗、斜体</td>
 </tr><tr>
-    <td rowspan="3">值域选择器</td>
-    <td>显示</td>
-    <td>是否显示值域选择器</td>
+    <td rowspan="2">图区设置</td>
+    <td>边界样式</td>
+    <td>区域边界的线条粗细、颜色、线条类型</td>
 </tr><tr>
-    <td>朝向</td>
-    <td>水平或垂直方向</td>
-</tr><tr>
-    <td>水平位置</td>
-    <td>水平位置</td>
-</tr><tr>
-    <td>垂直位置</td>
-    <td>垂直位置</td>    
-</tr><tr>
-    <td rowspan="5">区域配置</td>
-    <td>最大值颜色</td>
-    <td>最大度量值的颜色</td>
-</tr><tr>
-    <td>中间值颜色</td>
-    <td>中间度量值的颜色</td>
-</tr><tr>
-    <td>最小值颜色</td>
-    <td>最小度量值的颜色</td>
-</tr><tr>
-    <td>无值区域</td>
-    <td>没有对应度量值的区域的颜色</td>
-</tr><tr>
-    <td>字体</td>
-    <td>区域名称的字体</td>
-</tr><tr>
-    <td>缩放和平移</td>
-    <td>缩放和平移</td>
-    <td>是否打开地图缩放或平移功能</td>
+	<td>填充颜色</td>
+    <td>无数据区域的填充色</td>
+</tr><tr>    
+    <td>辅助功能</td>
+    <td>地图风格</td>
+    <td>地图样式选择</td>
 </tr><tr>
     <td rowspan="2">组件菜单</td>
     <td>启用组件菜单</td>

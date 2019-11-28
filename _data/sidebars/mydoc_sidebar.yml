@@ -123,7 +123,7 @@ entries:
           output: web   
           
         - title: GIS着色地图
-          url: /gis_zhaoseditu.html
+          url: /gis_zhuoseditu.html
           output: web 
           
         - title: GIS标记地图
@@ -194,13 +194,17 @@ entries:
     output: web, pdf
 
     folderitems:
-    - title: 分享
-      url: /fenxiang.html
+    - title: 嵌入式集成
+      url: /qianrulianjie.html
       output: web, pdf    
     
-    - title: 嵌入
-      url: /qianru.html
+    - title: 公共访问链接
+      url: /token_url.html
       output: web, pdf 
+      
+    - title: 导出
+      url: /daochu.html
+      output: web, pdf      
       
   - title: 高级教程
     output: web, pdf
