@@ -9,7 +9,7 @@ topnav_title: DATAFOR数据可视化与分析
 site_title: DATAFOR
 # this appears in the html browser tab for the site title (seen mostly by search engines, not users)
 
-company_name: DATAFOR
+company_name: 上海数为信息技术有限公司
 # this appears in the footer
 
 github_editme_path: dataforhelp/dataforhelp.github.io/edit/master/
@@ -97,7 +97,7 @@ sidebars:
 - product2_sidebar
 - other
 
-description: "DATAFOR Visualizer"
+description: "DATAFOR数据可视化与分析"
 # the description is used in the feed.xml file
 
 # needed for sitemap.xml file only
