@@ -47,11 +47,7 @@ entries:
     - title: 创建文档
       url:  /chuangjianwendang.html
       output: web, pdf
-      type: homepage
-      
-    - title: 将组件添加到文档
-      url: /add_component.html
-      output: web, pdf        
+      type: homepage       
 
   - title: 可视化
     output: web
@@ -80,6 +76,10 @@ entries:
     - title: 制作表格热力图
       url: /biaogerelitu.html
       output: web, pdf
+      
+    - title: 复制组件
+      url: /fuzhizhujian.html
+      output: web, pdf 
       
       subfolders:
       - title: 图表组件

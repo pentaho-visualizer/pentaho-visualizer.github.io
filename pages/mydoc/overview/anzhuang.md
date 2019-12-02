@@ -10,7 +10,7 @@ permalink: anzhuang.html
 
 下载地址：
 
- https://github.com/datafor123/pentaho-plugin 
+[https://github.com/datafor123/pentaho-plugin ](https://github.com/datafor123/pentaho-plugin )
 
 ###  安装Datafor
 
