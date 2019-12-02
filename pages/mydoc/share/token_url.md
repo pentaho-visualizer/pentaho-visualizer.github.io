@@ -1,5 +1,5 @@
 ---
-title: "公共访问链接’"
+title: 公共访问链接
 keywords: datafor
 tags:
 sidebar: mydoc_sidebar

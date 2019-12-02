@@ -1,5 +1,5 @@
 ---
-title: "嵌入式集成’"
+title: 嵌入式集成
 keywords: datafor
 tags:
 sidebar: mydoc_sidebar

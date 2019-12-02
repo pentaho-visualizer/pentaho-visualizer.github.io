@@ -216,19 +216,7 @@ entries:
       
     - title: 和第三方系统参数传递
       url: /canshuchuandi.html
-      output: web, pdf      
-
-    - title: 数据权限
-      url: /shujuquanxian.html
-      output: web, pdf 
-      
-    - title: CSS设置样式
-      url: /css.html
-      output: web, pdf    
-
-    - title: 自定义组件
-      url: /mydoc_yaml_tutorial.html
-      output: web, pdf       
+      output: web, pdf           
       
   - title: 视频
     output: web
