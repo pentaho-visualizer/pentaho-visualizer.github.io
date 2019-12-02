@@ -66,7 +66,7 @@ entries:
       output: web, pdf
 
     - title: 指标卡设置同环比
-      url: /zhibiaokashezhitonghuanbi.html
+      url: /zhibiaokatonghuanbi.html
       output: web, pdf          
       
     - title: “时间轴”的使用

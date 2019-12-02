@@ -6,13 +6,13 @@ sidebar: mydoc_sidebar
 permalink: duiqihebuju.html
 ---
 
-## 选中组件
+### 选中组件
 - 按住鼠标左键，拖动鼠标，将组件包含在拖动区域范围
 - 按住Ctrl按键，并依次单击组件，选中多个组件
 
 ![饼图](https://dataforhelp.github.io/images/duiqihebuju/1.png)
 
-## 对齐组件
+### 对齐组件
 
 选中两个或多个组件后，可以通过选择对齐操作将它们的边界对齐。 例如，如果你选择了两个组件，然后选择了“左侧对齐”按钮，那么这两个组件的左边界根据最靠左的边界线对齐。
 
