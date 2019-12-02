@@ -73,6 +73,10 @@ entries:
       url: /shijianzhou.html
       output: web, pdf 
 
+    - title: 设置数据显示格式
+      url: /shujuxianshigeshi.html
+      output: web, pdf       
+
     - title: 制作表格热力图
       url: /biaogerelitu.html
       output: web, pdf
@@ -202,13 +206,17 @@ entries:
     output: web, pdf
 
     folderitems:
-    - title: OLAP引擎
-      url: /mondrian.html
+    - title: 多维分析引擎(Mondrian)配置
+      url: /mondrian_config.html
       output: web, pdf    
     
-    - title: 修改模型的字段类型
-      url: /xiugaimoxing.html
+    - title: 自定义过程实现透视表单元格跳转
+      url: /yemiantiaozhuan.html
       output: web, pdf
+      
+    - title: 和第三方系统参数传递
+      url: /canshuchuandi.html
+      output: web, pdf      
 
     - title: 数据权限
       url: /shujuquanxian.html

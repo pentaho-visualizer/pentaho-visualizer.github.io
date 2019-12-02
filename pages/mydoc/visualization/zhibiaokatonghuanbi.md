@@ -31,7 +31,6 @@ permalink: zhibiaokatonghuanbi.html
 
    ![image-20191202112507495](../../../images/image-20191202112507495.png)
 ### 同环比显示位置布局
-
 在样式面板中设置“布局结构”
 
 ![image-20191202113014090](../../../images/image-20191202113014090.png)
