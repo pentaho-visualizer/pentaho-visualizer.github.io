@@ -39,6 +39,11 @@ entries:
   - title: 开始
     output: web, pdf
     folderitems:
+    
+    - title: 快速入门
+      url:  /kuaisurumeng.html
+      output: web, pdf
+      type: web, pdf     
 
     - title: 创建可视化与分析页面
       url:  /chuangjianwendang.html
