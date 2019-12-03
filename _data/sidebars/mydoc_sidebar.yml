@@ -58,6 +58,10 @@ entries:
     output: web
     folderitems:
 
+    - title: 添加文本，图片，线条和形状
+      url: /wenben_tuxiang_xiantiao.html
+      output: web, pdf
+      
     - title: 制作标签页
       url: /zhizuobiaoqianye.html
       output: web, pdf
