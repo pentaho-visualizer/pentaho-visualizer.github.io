@@ -39,18 +39,23 @@ entries:
   - title: 开始
     output: web, pdf
     folderitems:
-    
-    - title: 创建数据源
-      url: /datasource.html
-      output: web, pdf     
 
     - title: 创建可视化与分析页面
       url:  /chuangjianwendang.html
       output: web, pdf
       type: web, pdf     
+ 
 
-    - title: 将图表，控件和其他组件添加到页面中
-      url:  /tianjiazhujian.html
+  - title: 分析模型
+    output: web, pdf
+    folderitems:
+    
+    - title: 创建分析模型
+      url: /datasource.html
+      output: web, pdf     
+
+    - title: 编辑、删除分析模型
+      url:  /bianji_shanchu_ds.html
       output: web, pdf
       type: web, pdf          
 
@@ -58,6 +63,11 @@ entries:
     output: web
     folderitems:
 
+    - title: 将图表，控件和其他组件添加到页面中
+      url:  /tianjiazhujian.html
+      output: web, pdf
+      type: web, pdf      
+    
     - title: 添加文本，图片，线条和形状
       url: /wenben_tuxiang_xiantiao.html
       output: web, pdf
@@ -95,7 +105,7 @@ entries:
       output: web, pdf 
       
       subfolders:
-      - title: 图表组件
+      - title: 图表组件参考
         output: web
         subfolderitems:
         
@@ -119,7 +129,7 @@ entries:
           url: /mianjitu.html
           output: web            
       
-      - title: 地图组件
+      - title: 地图组件参考
         output: web
         subfolderitems:
 
@@ -143,7 +153,7 @@ entries:
           url: /gis_biaojiditu.html
           output: web 
 
-      - title: 过滤组件
+      - title: 过滤组件参考
         output: web
         subfolderitems:
             
@@ -155,7 +165,7 @@ entries:
           url: /shijian.html
           output: web  
           
-      - title: 辅助组件
+      - title: 辅助组件参考
         output: web
         subfolderitems:
         
