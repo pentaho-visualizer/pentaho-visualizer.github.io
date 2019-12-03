@@ -1,5 +1,5 @@
 ---
-title: 创建可视化文档
+title: 创建可视化与分析页面
 tags: [创建]
 last_updated: 2018年12月28日
 keywords: 
@@ -7,27 +7,24 @@ sidebar: mydoc_sidebar
 permalink: chuangjianwendang.html
 folder: mydoc
 ---
+1. 登录到Pentaho用户控制台
+2. 主页面选择“新建”按钮或在“文件”菜单选择“新建”，选择“Visualizer"
 
-1. 主页面选择“新建”按钮或在“文件”菜单选择“新建”，选择“Datafor Document"
+	![文档编辑](https://dataforhelp.github.io/images/chuangjianwendang/chuangjianwendang-2.PNG)
 
+   | 编号 | 说明                                 |
+   | :--: | ------------------------------------ |
+   |  1   | 工具栏                               |
+   |  2   | 保存按钮                             |
+   |  3   | 预览按钮                             |
+   |  4   | 组件面板、页面样式面板、页面行为面板 |
+   |  5   | 画布                                 |
 
-![新建文档](https://dataforhelp.github.io/images/chuangjianwendang/chuangjianwendang-1.gif)
+3. 添加和配置组件
 
-2. 文档编辑窗口
-
-![文档编辑](https://dataforhelp.github.io/images/chuangjianwendang/chuangjianwendang-2.PNG)
-
-| 编号 |                 说明                 |
-| :--: | ----------------------------------|
-|  1   |                工具栏                |
-|  2   |               保存按钮               |
-|  3   |               预览按钮               |
-|  4   | 组件面板、页面样式面板、页面行为面板 |
-|  5   |                 画布                 |
-3. 在页面上添加数据组件
-   a. 组件面板选择“组件”，在画布合适位置拖放组件
-   b. 在“数据”面板中选择模型，并添加数据字段
-   c. 在“样式”面板中修改组件样式
+-  在页面属性面板的“组件”标签页选中所需的图表和组件，在画布合适位置拖放组件。
+-  在组件属性面板的“数据”标签页上定义组件的数据。
+-  在页面和组件属性面板的“样式”标签页中修改组件样式，个性化组件风格。
       ![2019.11.21-13.25.49](../../../images/2019.11.21-13.25.49.gif)
 
 

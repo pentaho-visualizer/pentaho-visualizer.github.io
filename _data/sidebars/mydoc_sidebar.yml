@@ -44,10 +44,15 @@ entries:
       url: /datasource.html
       output: web, pdf     
 
-    - title: 创建文档
+    - title: 创建可视化与分析页面
       url:  /chuangjianwendang.html
       output: web, pdf
-      type: homepage       
+      type: web, pdf     
+
+    - title: 将图表，控件和其他组件添加到页面中
+      url:  /tianjiazhujian.html
+      output: web, pdf
+      type: web, pdf          
 
   - title: 可视化
     output: web
