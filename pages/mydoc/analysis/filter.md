@@ -1,5 +1,5 @@
 ---
-title: 数据筛选
+title: 组件的数据过滤
 tags: [筛选]
 last_updated: 2018年12月28日
 keywords: sidebar, accordion, yaml, iteration, for loop, navigation, attributes, conditional filtering
@@ -7,37 +7,41 @@ sidebar: mydoc_sidebar
 permalink: filter.html
 folder: mydoc
 ---
-## 文本字段筛选
 
-1. 选中一个组件，点击数据面板的过滤的“新增”按钮。
+组件的数据过滤是将组件不需要显示的数据过滤掉，优化或减少组件背后的数据。
+您可以将一个或多个维度字段添加的“数据面板”的“过滤框，设置维度字段的过滤条件。
 
-![文本筛选](https://dataforhelp.github.io/images/filter/1.png)
+**多个过滤器**
+一个组件可以具有多个过滤器。在这种情况下，每个过滤器都被视为AND子句。这意味着仅满足过滤器中所有条件的数据行将受到影响。
 
-2. 在模型中，选择所要筛选的文本类型字段
+**过滤方式有2种：**
+- 包含过滤器仅检索符合条件的记录。
+- 排除过滤器仅检索不符合条件的记录。
 
-![柱图属性](https://dataforhelp.github.io/images/filter/2.png)
+**过滤器类型：**
+- 文本过滤器
+	- 基本过滤，在列表中选择过滤项
+	- 高级过滤，通过or或者and组合多个文本过滤条件。文本过滤条件包括：“包含”、“不包含”、“前置”，“后缀”。
+- 日期过滤器
+	- 基本过滤，在列表中选择日期
+	- 相对日期过滤，选择系统提供的相对过滤条件，实现动态日期过滤
+	- 高级过滤，通过or或者and组合多个日期过滤条件。日期过滤条件包括：“之前”、“等于”、“之后”。
 
-3. 选择过滤类型
+### 创建过滤器
+向图表或控件添加过滤器
+1. 编辑页面。
+2. 选择要过滤的图表或控件。
+3. 在“属性”面板中选择“数据”选项卡。
+4. 在“过滤”框中“新增”添加过滤器。
+5. 在模型中选择过滤字段。
+6. 选择“过滤类型”
+7. 设置过滤条件
+8. 点击“应用”
 
-- 基本过滤，从列表中选择需要筛选的值，并点击“应用”按钮
+### 编辑过滤器
+1. 编辑您的页面。
+2. 选择具有过滤器的图表或控件。
+3. 在“ 属性”面板中选择“ 数据”选项卡。
+4. 点击过滤字段
 
-![基本过滤类型](https://dataforhelp.github.io/images/filter/3.png)
-
-- 高级过滤，定义高级筛选规则，并点击“应用”按钮。
-
-![高级过滤类型](https://dataforhelp.github.io/images/filter/4.png)
-## 日期字段筛选
-
-1. 选中一个组件，点击数据面板的过滤的“新增”按钮。
-
-![新增日期过滤类型](https://dataforhelp.github.io/images/filter/5.png)
-2. 在模型中，选择所要筛选的日期类型字段
-![日期过滤](https://dataforhelp.github.io/images/filter/6.png)
-
-3. 择过滤类型
-    a).  基本过滤，从列表中选择日期，并点击“应用”按钮。
-    ![日期基本过滤](https://dataforhelp.github.io/images/filter/7.png)
-    b).  相对日期过滤，选择相对日期规则，并点击“应用”按钮。
-    ![日期相对过滤](https://dataforhelp.github.io/images/filter/8.png)
-    c).  高级过滤，定义高级筛选规则，并点击“应用”按钮。
-    ![日期高级过滤](https://dataforhelp.github.io/images/filter/9.png)
+![新增日期过滤类型](../../../images/5.png)

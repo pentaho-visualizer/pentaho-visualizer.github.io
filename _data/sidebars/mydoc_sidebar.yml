@@ -158,7 +158,7 @@ entries:
     output: web, pdf
     folderitems:  
 
-    - title: 筛选
+    - title: 组件的数据过滤
       url: /filter.html
       output: web, pdf
 
@@ -236,4 +236,13 @@ entries:
        
     - title: 创建大屏页面
       url: /daping.html
-      output: web        
+      output: web    
+
+  - title: 新功能
+    output: web
+
+    folderitems:
+    - title: 新功能
+      url: /xingongneng.html
+      output: web
+         
