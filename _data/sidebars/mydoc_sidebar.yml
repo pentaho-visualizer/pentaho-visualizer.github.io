@@ -36,6 +36,14 @@ entries:
       url: /anzhuang.html
       output: web, pdf
       
+    - title: 新功能
+      url: /xingongneng.html
+      output: web
+      
+    - title: 常见问题
+      url: /changjianwenti.html
+      output: web      
+      
   - title: 开始
     output: web, pdf
     folderitems:
@@ -261,12 +269,4 @@ entries:
     - title: 创建大屏页面
       url: /daping.html
       output: web    
-
-  - title: 新功能
-    output: web
-
-    folderitems:
-    - title: 新功能
-      url: /xingongneng.html
-      output: web
          
