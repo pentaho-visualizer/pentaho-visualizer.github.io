@@ -18,4 +18,4 @@ permalink: token_url.html
 
 3. 设置操作权限，生成公共链接
 
-<img src="../../../images/image-20191128161124586.png" alt="image-20191128161124586" style="zoom:80%;" />
+   <img src="../../../images/image-20191128161124586.png" alt="image-20191128161124586" style="zoom:80%;" />

@@ -210,13 +210,9 @@ entries:
       url: /top_bottom.html
       output: web, pdf      
 
-    - title: 计算成员
-      url: /jisuanchengyuan.html
-      output: web, pdf   
-
-    - title: 计算度量
-      url: /jisuanduliang.html
-      output: web, pdf         
+    - title: 计算度量和计算成员
+      url: /jisuan.html
+      output: web, pdf     
  
   - title: 分享与嵌入
     output: web, pdf
@@ -248,7 +244,11 @@ entries:
       
     - title: 和第三方系统参数传递
       url: /canshuchuandi.html
-      output: web, pdf           
+      output: web, pdf   
+      
+    - title: 数据权限
+      url: /shujuquanxian.html
+      output: web, pdf       
       
   - title: 视频
     output: web
