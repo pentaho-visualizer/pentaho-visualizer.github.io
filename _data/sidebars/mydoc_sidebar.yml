@@ -211,7 +211,7 @@ entries:
       url: /top_bottom.html
       output: web, pdf      
 
-    - title: 计算字段
+    - title: 计算度量和计算成员
       url: /jisuan.html
       output: web, pdf     
  
