@@ -32,7 +32,7 @@ entries:
       url: /base_pentaho.html
       output: web, pdf  
 
-    - title: 安装Datafor
+    - title: 安装Visualizer
       url: /anzhuang.html
       output: web, pdf
       
