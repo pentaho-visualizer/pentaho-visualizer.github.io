@@ -53,15 +53,19 @@ entries:
       output: web, pdf
       type: web, pdf     
 
-    - title: 创建Visualizer页面
-      url:  /chuangjianwendang.html
+    - title: Visualizer设计器
+      url:  /shejiqijieshao.html
       output: web, pdf
       type: web, pdf     
  
 
-  - title: 分析模型
+  - title: 数据源与分析模型
     output: web, pdf
     folderitems:
+    
+    - title: 创建数据源连接
+      url: /chuangjianlianjie.html
+      output: web, pdf       
     
     - title: 创建分析模型
       url: /datasource.html
@@ -76,6 +80,11 @@ entries:
     output: web
     folderitems:
 
+    - title: 创建数据可视化与分析页面
+      url:  /chuangjianyemian.html
+      output: web, pdf
+      type: web, pdf       
+    
     - title: 将图表，控件和其他组件添加到页面中
       url:  /tianjiazhujian.html
       output: web, pdf
@@ -193,10 +202,6 @@ entries:
     - title: 联动
       url: /liandong.html
       output: web, pdf
-
-    - title: 下钻
-      url: /xiazhuan.html
-      output: web, pdf
       
     - title: 参考线
       url: /cankaoxian.html
@@ -206,7 +211,7 @@ entries:
       url: /top_bottom.html
       output: web, pdf      
 
-    - title: 计算度量和计算成员
+    - title: 计算字段
       url: /jisuan.html
       output: web, pdf     
  
@@ -244,8 +249,16 @@ entries:
       
     - title: 数据权限
       url: /shujuquanxian.html
-      output: web, pdf       
-      
+      output: web, pdf 
+
+  - title: 学习资料
+    output: web, pdf
+
+    folderitems:
+    - title: 如何设计一个好的仪表盘
+      url: /how_disign_beautiful_dashboard.html
+      output: web, pdf    
+         
   - title: 视频
     output: web
 

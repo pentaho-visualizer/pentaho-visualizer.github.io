@@ -5,8 +5,9 @@ tags: [getting_started]
 sidebar: mydoc_sidebar
 permalink: index.html
 typora-copy-images-to: images
-
 ---
+
+### 什么是Visualizer
 
 “Visualizer”是上海数为信息技术有限公司在Pentaho平台上发布的一款数据可视化及数据探索分析软件。以Pentaho插件的形式部署在Pentaho Business Analytics(PBA)服务上。
 
@@ -33,3 +34,12 @@ typora-copy-images-to: images
 - 将数据嵌入其它系统中，包括企业门户、移动应用、协作办公系统等。
 - 通过分享页面链接，邀请别人查看或编辑您的数据。
 - 将数据导出到邮件、幻灯片、Excel，分享您的数据。
+
+### 哪些场景需要Visualizer
+
+- 报表、仪表盘、数字化报告的敏捷开发
+- 实时数据监控敏捷开发
+- 适应手机的流式布局的仪表盘敏捷开发
+- 自助式日常数据分析
+- 数字大屏展示敏捷开发
+- 嵌入式分析和可视化页面敏捷开发

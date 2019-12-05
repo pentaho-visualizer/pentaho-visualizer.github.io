@@ -1,5 +1,5 @@
 ---
-title: 创建分析模型
+title: 创建多维分析模型
 tags: [数据源]
 last_updated: 2018年12月28日
 keywords: 

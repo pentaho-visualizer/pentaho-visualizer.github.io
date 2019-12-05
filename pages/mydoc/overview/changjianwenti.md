@@ -1,21 +1,14 @@
 ---
-title: "新功能"
+title: 常见问题
 keywords: datafor
 tags:
 sidebar: mydoc_sidebar
-permalink: xingongneng.html
+permalink: changjianwenti.html
 ---
-### 2019-11-13
-1. 地图拆分为矢量填充地图、矢量标记地图、热力图、GIS着色地图、GIS标记地图，降低地图使用门槛
-2. 柱图拆分为横向柱图和柱图，降低柱图使用门槛
-3. 其他组件的增强和调整
-4. 显示、过渡动画的优化，解决操作系统关闭动态效果时“保存”等功能可能无法正常工作的问题
-5. 组件默认值、上限范围调整。
-6. 部分组件添加中位线、均值线功能
-### 2019-9-27
-1. 透视表组件重构
-2. 时间筛选器增强
-3. bug修复
+### 不能下载和上传Visualizer文件
+答：请参考安装文档，修改ImportHandlerMimeTypeDefinitions.xml文件。
+
+
 
 
 
