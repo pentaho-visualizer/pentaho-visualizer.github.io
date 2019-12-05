@@ -1,5 +1,5 @@
 ---
-title: 组件的数据过滤
+title: 组件的数据过滤器
 tags: [筛选]
 last_updated: 2018年12月28日
 keywords: sidebar, accordion, yaml, iteration, for loop, navigation, attributes, conditional filtering

@@ -53,7 +53,7 @@ entries:
       output: web, pdf
       type: web, pdf     
 
-    - title: 创建可视化与分析页面
+    - title: 创建Visualizer页面
       url:  /chuangjianwendang.html
       output: web, pdf
       type: web, pdf     
@@ -89,6 +89,10 @@ entries:
       url: /zhizuobiaoqianye.html
       output: web, pdf
       
+    - title: 如何使用“时间”组件
+      url: /shijianzhujian.html
+      output: web, pdf       
+      
     - title: 组件对齐和布局
       url: /duiqihebuju.html
       output: web
@@ -100,18 +104,10 @@ entries:
     - title: 指标卡设置同环比
       url: /zhibiaokatonghuanbi.html
       output: web, pdf          
-      
-    - title: “时间轴”的使用
-      url: /shijianzhou.html
-      output: web, pdf 
 
     - title: 设置数据显示格式
       url: /shujuxianshigeshi.html
       output: web, pdf       
-
-    - title: 制作表格热力图
-      url: /biaogerelitu.html
-      output: web, pdf
       
     - title: 复制组件
       url: /fuzhizhujian.html
@@ -190,7 +186,7 @@ entries:
     output: web, pdf
     folderitems:  
 
-    - title: 组件的数据过滤
+    - title: 组件的数据过滤器
       url: /filter.html
       output: web, pdf
 
