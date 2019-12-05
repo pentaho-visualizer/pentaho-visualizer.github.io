@@ -1,5 +1,5 @@
 ---
-title: "Datafor数据可视化与分析(Visualizer)"
+title: "Visualizer - Datafor数据可视化与分析"
 keywords: datafor
 tags: [getting_started]
 sidebar: mydoc_sidebar
@@ -8,7 +8,7 @@ typora-copy-images-to: images
 
 ---
 
-“Datafor数据可视化与分析(Visualizer)”是上海数为信息技术有限公司在Pentaho平台上发布的一款数据可视化及数据探索分析软件。以Pentaho插件的形式部署在Pentaho Business Analytics(PBA)服务上。
+“Visualizer”是上海数为信息技术有限公司在Pentaho平台上发布的一款数据可视化及数据探索分析软件。以Pentaho插件的形式部署在Pentaho Business Analytics(PBA)服务上。
 
 <img src="images/components-1574065589113-1575362127489.png" alt="components"  />
 

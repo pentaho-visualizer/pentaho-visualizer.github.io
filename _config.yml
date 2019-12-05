@@ -3,7 +3,7 @@ repository: dataforhelp/dataforhelp.github.io
 output: web
 # this property is useful for conditional filtering of content that is separate from the PDF.
 
-topnav_title: Visualizer for Pentaho-DATAFOR数据可视化与分析
+topnav_title: DATAFOR数据可视化与分析(Visualizer)
 # this appears on the top navigation bar next to the home button
 
 site_title: DATAFOR
@@ -97,7 +97,7 @@ sidebars:
 - product2_sidebar
 - other
 
-description: "Visualizer for Pentaho-DATAFOR数据可视化与分析"
+description: "DATAFOR数据可视化与分析(Visualizer)"
 # the description is used in the feed.xml file
 
 # needed for sitemap.xml file only
