@@ -42,7 +42,11 @@ entries:
       
     - title: 常见问题
       url: /changjianwenti.html
-      output: web      
+      output: web
+
+    - title: 白皮书
+      url: /white_paper.html
+      output: web     
       
   - title: 开始
     output: web, pdf
@@ -249,7 +253,7 @@ entries:
       
     - title: 数据权限
       url: /shujuquanxian.html
-      output: web, pdf 
+      output: web, pdf   
 
   - title: 学习资料
     output: web, pdf
@@ -278,4 +282,3 @@ entries:
     - title: 创建大屏页面
       url: /daping.html
       output: web    
-         
