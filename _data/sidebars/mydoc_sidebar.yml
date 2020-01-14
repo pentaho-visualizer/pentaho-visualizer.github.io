@@ -247,7 +247,7 @@ entries:
       url: /yemiantiaozhuan.html
       output: web, pdf
       
-    - title: 和第三方系统参数传递
+    - title: url传参
       url: /canshuchuandi.html
       output: web, pdf   
       
