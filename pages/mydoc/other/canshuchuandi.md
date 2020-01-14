@@ -60,7 +60,7 @@ http://localhost:8080/report/plugin/datafor/api/open/98af3850-aef1-4b4f-8ba4-967
 ```
 #### 特殊参数名
 Datafor文件默认开放了一套特殊参数，通过这些特殊的url参数，可以实现一些特殊功能的空值。
-__compact
+##### __compact
 是否去掉页面和页面容器之间的默认间距，取值true或者false。
 
 ```
@@ -87,7 +87,7 @@ DateToMember()等
 示例
 http://localhost:8080/pentaho/plugin/datafor/api/integrate/L2hvbWUvYWRtaW4vY2hhbm5lbF9wcm92aW5jZV9saXN0LmRhdGFmb3I=?__compact=true&param_MONTH%20KEY=JTdCJTIybG9jYXRpb24lMjIlM0ElMjJmaWx0ZXJzJTIyJTJDJTIydHlwZSUyMiUzQSUyMkZpbHRlciUyMiUyQyUyMnZhbHVlJTIyJTNBJTIyJTVCR28lMjB0aW1lJTIwZGltLiVFNSVBNCVBOSU1RC5DdXJyZW50TWVtYmVyJTIwaW4lMjAlN0IlN0JEYXRlVG9NZW1iZXIoJTVCR28lMjB0aW1lJTIwZGltLiVFNSVBNCVBOSU1RC4lNUJNT05USCUyMEtFWSU1RCUyQyUyMCclM0UlM0QnJTJDJTIwMTEzMzM2NjQwMDAwMCUyQydBc2lhJTJGU2hhbmdoYWknJTJDJ2VuJyklM0FEYXRlVG9NZW1iZXIoJTVCR28lMjB0aW1lJTIwZGltLiVFNSVBNCVBOSU1RC4lNUJNT05USCUyMEtFWSU1RCUyQyclM0MlM0QnJTJDJTIwMTE2NDkwMjQwMDAwMCUyQydBc2lhJTJGU2hhbmdoYWknJTJDJ2VuJyklN0QlN0QlMjIlN0Q=
 ```
-#### 多值传递
+### 多值传递
 多值传递，是指通过一个参数，同时传递多个值。不管是明文式赋值，还是函数式赋值，多值传输都是被允许的。多值传递分两种类型，离散传值和范围传值。
 #### 离散传值
 多值之间通过分号进行分割拼接。
