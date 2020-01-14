@@ -132,6 +132,7 @@ http://localhost:8080/pentaho/plugin/datafor/api/edit/L2hvbWUvYWRtaW4vYWFhLmRhdG
 }
 ```
 为兼容起见，消息最好通过JSON.stringify进行序列化处理。
+
 #### 接收datafor的交互信息
 ##### 可交互前提
 需在页面设置面板里，指定当前页面认可的域名，可以指定多个。
