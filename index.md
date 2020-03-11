@@ -9,7 +9,7 @@ typora-copy-images-to: images
 
 ### 什么是Visualizer
 
-“Visualizer”是上海数为信息技术有限公司在Pentaho平台上发布的一款数据可视化及数据探索分析软件。以Pentaho插件的形式部署在Pentaho Business Analytics(PBA)服务上。
+“Visualizer”是Pentaho PBA的一个"敏捷BI"插件。
 
 <img src="images/components-1574065589113-1575362127489.png" alt="components"  />
 
