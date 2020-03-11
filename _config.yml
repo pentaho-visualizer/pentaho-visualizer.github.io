@@ -3,13 +3,13 @@ repository: dataforhelp/dataforhelp.github.io
 output: web
 # this property is useful for conditional filtering of content that is separate from the PDF.
 
-topnav_title: DATAFOR
+topnav_title: Visualizer
 # this appears on the top navigation bar next to the home button
 
-site_title: DATAFOR
+site_title: Visualizer
 # this appears in the html browser tab for the site title (seen mostly by search engines, not users)
 
-company_name: 上海数为信息技术有限公司
+company_name: Visualizer
 # this appears in the footer
 
 github_editme_path: dataforhelp/dataforhelp.github.io/edit/master/
@@ -35,9 +35,9 @@ exclude:
   - .gitignore
 # these are the files and directories that jekyll will exclude from the build
 
-feedback_subject_line: DATAFOR
+feedback_subject_line: Visualizer
 
-feedback_email: support@datafor.com.cn
+feedback_email: 
 # used as a contact email for the Feedback link in the top navigation bar
 
 # feedback_disable: true
@@ -97,7 +97,7 @@ sidebars:
 - product2_sidebar
 - other
 
-description: "DATAFOR"
+description: "Visualizer"
 # the description is used in the feed.xml file
 
 # needed for sitemap.xml file only
