@@ -27,10 +27,6 @@ entries:
       url: /index.html
       output: web, pdf
       type: homepage
-      
-    - title: 为什么基于Pentaho设计
-      url: /base_pentaho.html
-      output: web, pdf  
 
     - title: 安装Visualizer
       url: /anzhuang.html
@@ -43,10 +39,7 @@ entries:
     - title: 常见问题
       url: /changjianwenti.html
       output: web
-
-    - title: 白皮书
-      url: /white_paper.html
-      output: web     
+  
       
   - title: 开始
     output: web, pdf
