@@ -6,12 +6,6 @@ sidebar: mydoc_sidebar
 permalink: anzhuang.html
 ---
 
-### 下载Visualizer
-
-下载地址：
-
-[https://github.com/datafor123/pentaho-plugin ](https://github.com/datafor123/pentaho-plugin )
-
 ###  安装Visualizer
 
 1. 将datafor.zip解压到  “pentaho-solutions\system” 目录
