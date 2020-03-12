@@ -1,5 +1,5 @@
 ---
-title: "Visualizer - Datafor数据可视化与分析"
+title: "Visualizer - Pentaho数据可视化与分析"
 keywords: datafor
 tags: [getting_started]
 sidebar: mydoc_sidebar
